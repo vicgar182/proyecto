@@ -1,0 +1,1726 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<meta name="title" content="Map of the metro, RER, bus and tramway lines | RATP" />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<script>var tc_vars = {'user_log':'non connecte','env_work':'prod','env_language':'en','env_site':'63370','page_cat1':'Consultez_l_ensemble_des_plans','page_cat2':'','page_cat3':'','page_name':'Accueil_Consultez_l_ensemble_des_plans','new_page_cat1':'plan','new_page_cat2':'plans_lignes','new_page_cat3':'','new_page_name':'accueil_plans','page_path':'/plans-lignes','env_subsite':'55','tag_article':'','type_transport':'all','nom_ligne':''}</script>
+<meta name="description" content="List all metro, RER, bus and tramway maps. These maps can be downloaded and printed." />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+<link rel="manifest" href="/manifest.json" />
+<link rel="icon" href="/safari-pinned-tab.svg" />
+<meta name="theme-color" content="#ffffff" />
+<script>window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};</script>
+
+    <title>Maps | Ratp.fr</title>
+    <link rel="stylesheet" href="/sites/default/files/css/css_WnWI6DnMm0tYXTg28Jq1FBZrgn5qpi443yEESJuesmU.css?pqkgfx" media="all" />
+<link rel="stylesheet" href="//customer.cludo.com/assets/2117/10194/cludo-search.min.css" media="all" />
+<link rel="stylesheet" href="/sites/default/files/css/css_Pc59uqP1Cb-qDm_Wp9TZ_e1ic5uBVUWAYNUUzpqqn1U.css?pqkgfx" media="all" />
+<link rel="stylesheet" href="//use.fontawesome.com/releases/v5.7.2/css/all.css" media="all" />
+<link rel="stylesheet" href="/sites/default/files/css/css_knPyPgjhd6G89tAjvrNSvttJRamiRe3Wvb5wMYNUQYM.css?pqkgfx" media="all" />
+<link rel="stylesheet" href="/sites/default/files/css/css_NEvkP03o5cSH-V9n58mDtNWm6enKIdDBLznnJdUwnDQ.css?pqkgfx" media="print" />
+<link rel="stylesheet" href="/sites/default/files/css/css_0SID96nAEPZZNNSH82hAGcIcJVKO81HdpZAxDKBDga0.css?pqkgfx" media="all" />
+<link rel="stylesheet" href="/sites/default/files/css/css_lvFb4g5EucET_yQdbzOJcbAlaXAN6KZNhkEUUjmmx7M.css?pqkgfx" media="all" />
+<link rel="stylesheet" href="/sites/default/files/css/css_tvwjFRnPi6RGrTVt889rw6PuCAa7v9cS_beEr7-ig_0.css?pqkgfx" media="print" />
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"en\/","currentPath":"plans-lignes","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en"},"pluralDelimiter":"\u0003","ajaxPageState":{"libraries":"addtoany\/addtoany,core\/drupal.dialog.ajax,core\/html5shiv,core\/picturefill,ixxi_planquartier\/itinerary_result,ixxi_planquartier\/itinerary_search,ixxi_utils\/autocompleteSearch,ixxi_utils\/pictro,ratp\/global,ratp_content\/cludo-search,ratp_content\/cludo-search-api,ratp_content\/ratp_content.links_lang,ratp_content\/ratp_content.menu,ratp_content\/ratp_content.msg_access,ratp_infos_voyageurs\/ratp_infos_voyageurs.autocomplete,ratp_plans_lignes\/ratp_plans_lignes.enable,ratp_tags\/lib_ratp_plan_lignes,ratp_tags\/ratp_tags_converteo,ratp_tags\/ratp_tms,ratp_tarteaucitron\/ratp_tarteaucitron.cookies,social_media_links\/fontawesome.component,social_media_links\/social_media_links.theme,system\/base,views\/views.module","theme":"ratp","theme_token":null},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"ratp":{"breakpoints":{"small":"all and (max-width: 36em)","medium":"all and (min-width: 36.0625em) and (max-width: 63.9375em)","large":"all and (min-width: 64em)","xlarge":"all and (min-width: 90em)","medium-up":"all and (min-width: 36.0625em)","medium-down":"all and (max-width: 63.9375em)"}},"ixxi_carto":{"oymDomain":"https:\/\/ratp-prod3.onyourmap.com","oymKey":"RATP12RHF592GJDRJGRDKGL52","oymReferer":"http:\/\/www.ratp.fr"},"ixxi_itineraires":{"hasAnyErrorsIti":false,"max_iti_history":6,"datas_history_iti":[],"labelRecherches":"My last searches"},"user":{"uid":0,"permissionsHash":"43bf8321fa58c9d46e5eee86ef6270bb49f9e4c22c4d8c57d41e05bf8f16163a"}}</script>
+
+<!--[if lte IE 8]>
+<script src="/sites/default/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js"></script>
+<![endif]-->
+<script src="/sites/default/files/js/js_1fiHGv8KxmOMQ33qfCa6M4FpcrTvUm9VkerSvvFlI5A.js"></script>
+ 
+  </head>
+  <body >
+
+        <p class="msg-access">
+      RATP is offering you a new website. Certain features of the new website, including its accessibility, are still being finalised. To make it easier for you to find what you’re looking for, we invite you to      <a href="http://services.ratp.fr">use the previous version of the website</a>. You may also use the RATP app. We will notify you as soon as possible when the new website is completely up and running.    </p>
+
+        <div id="nav-access">
+      <ul class="menu-li-access">
+        <li class="lien-evitement-main-content">
+          <a href="#main-content" class="go-to-main focusable">
+            Skip to main content
+          </a>
+        </li>
+        <li class="lien-evitement-itineraire-result">
+          <a href="#ixxi-result" class="itineraire-result focusable">
+            Aller aux résultats de la recherche d'itinéraire
+          </a>
+        </li>
+        <li class="lien-evitement-horaire-result">
+          <a href="#ixxi-horaire-result" class="horaire-result focusable">
+            Aller aux résultats de la recherche d'horaire
+          </a>
+        </li>
+      </ul>
+    </div>
+
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+    <script type="text/javascript" src="https://static.criteo.net/js/ld/publishertag.js" async="true"></script>
+<script type="text/javascript">
+var Criteo = Criteo || {};
+Criteo.events = Criteo.events || [];
+Criteo.events.push(function() {
+Criteo.CallRTA({
+"networkId":806
+});
+});
+</script>
+<script type="text/javascript" src="https://c.amazon-adsystem.com/aax2/amzn_ads.js"></script>
+<script>/*Implementation Amazon: this code must remain inline*/
+            try {
+            amznads.getAds('3340');
+        } catch(e) { /*ignore*/}</script>
+<script>/*Implementation Amazon: this code must remain inline*/
+            if(typeof amznads != 'undefined') {
+            var amz_array = amznads.getTokens();
+        var amztokens = '';
+        for(var i=0; i<amz_array.length; i++) {
+          amztokens += amz_array[i]+'=1;';
+          }
+        }</script>
+<script src='https://www8.smartadserver.com/config.js?nwid=2489' type="text/javascript"></script>
+<script type="text/javascript">
+    sas.setup({ domain: 'https://www8.smartadserver.com', async: true, renderMode: 0 });
+
+
+var sas_target = (function() {
+     if (typeof crtg_content == 'undefined') {
+     crtg_content = '';
+    }
+ var name = 'crtg_rta=';
+    var ca = document.cookie.split(';');
+   for(var i=0; i<ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0)==' ') c = c.substring(1);
+        if (c.indexOf(name) != -1) crtg_content = crtg_content+decodeURIComponent(c.substring(name.length,c.length));
+    }
+    return crtg_content;
+})();
+if(typeof amztokens != 'undefined') {
+sas_target+=decodeURIComponent(amztokens);
+ }
+</script>
+
+<div class="layout-container page--plans-lignes">
+
+        
+<header class="header clearfix">
+  <div class="header-colonne header-colonne@small header-colonne@medium header-colonne@large clearfix">
+      <div class="logo">
+    <div id="block-sitebranding">
+  
+    
+            <a href="/en" title="RATP : demandez-nous la ville (retour à l'accueil)" rel="home">
+      <img src="/themes/ratp/logo.svg" alt="RATP : demandez-nous la ville (retour à l'accueil)" />
+        </a>
+    
+  </div>
+
+  </div>
+
+      <div class="elements-top">
+    <div id="block-socialmedialinks" class="block-social-media-links block-region-elements_top social-share--header header-social-media header-separator">
+  
+    
+      <ul class="platforms inline horizontal">
+
+  <li class="social_share_icn">
+    
+        <a href="https://www.instagram.com/ratp/" >
+    
+
+
+            <i class="fab fa-instagram" aria-labelledby="instagram-icon-elements-top" ></i>
+    
+      </a>
+  
+  </li>
+<li class="social_share_icn">
+                        
+        <a class="use-ajax" id="modal-tw-icn-block-socialmedialinks" href="/en/ratp_social_networks/twitter" >
+      <i class="fab fa-twitter" aria-labelledby="twitter-icon-elements-top" ></i>
+    </a>
+    
+  </li>
+<li class="social_share_icn">
+    
+        <a href="https://www.facebook.com/RATPofficiel" >
+    
+
+
+            <i class="fab fa-facebook-f" aria-labelledby="facebook-icon-elements-top"></i>
+    
+      </a>
+  
+  </li>
+</ul>
+
+  </div>
+<div class="language-switcher-language-url language-switcher header-separator" id="block-selecteurdelangue">
+  
+    
+      <div class="dropdown">
+  <button id="language-menu-button-block-selecteurdelangue" aria-controls="list-lang-block-selecteurdelangue"
+            class="dropdown-button current-en"  aria-expanded="false" onclick ="toggleDropdownVisibility('list-lang-block-selecteurdelangue', 'language-menu-button-block-selecteurdelangue')">
+                 <span class="mask-acess">langue sélectionnée</span>  
+                 English
+                 <span class="mask-acess"> changer de langue</span>  
+  </button>
+  <ul class="u-toggle__block dropdown-content list-lang" id="list-lang-block-selecteurdelangue" >
+                     <li class=u-flag--fr><a href="/plans" class="language-link" hreflang="fr" data-drupal-link-system-path="plans-lignes">Français</a></li>
+                          <li class="bg-grey">Tourist information</li>
+          <li ><a  class='u-flag-lang-switch u-flag--de' href='http://www.ratp.fr/en/visite-paris/deutsch/auf-besuch-paris-und-umgebung'  >Deutsch</a></li>    
+          <li ><a  class='u-flag-lang-switch u-flag--it' href='http://www.ratp.fr/en/visite-paris/italiano/visita-a-parigi-e-dintorni'  >Italiano</a></li>    
+          <li ><a  class='u-flag-lang-switch u-flag--es' href='http://www.ratp.fr/en/visite-paris/espanol/visitar-paris-y-sus-alrededores'  >Español</a></li>    
+          <li ><a  class='u-flag-lang-switch u-flag--nl' href='http://www.ratp.fr/en/visite-paris/nederlandse/op-bezoek-naar-parijs-en-omgeving'  >Nederlandse</a></li>    
+          <li ><a  class='u-flag-lang-switch u-flag--ru' href='http://www.ratp.fr/en/visite-paris/russkiy/pri-poseschenii-parizha-i-ego-okrestnostey'  >русский</a></li>    
+          <li ><a  class='u-flag-lang-switch u-flag--jp' href='http://www.ratp.fr/en/visite-paris/ribenren/harishineijihijinjiaonoguanguang'  >日本人</a></li>    
+          <li ><a  class='u-flag-lang-switch u-flag--br' href='http://www.ratp.fr/en/visite-paris/do-brasil/visitando-paris-e-seus-arredores'  >Do Brasil</a></li>    
+          <li ><a  class='u-flag-lang-switch u-flag--cn' href='http://www.ratp.fr/en/visite-paris/zhongguo/canguanbalijiqizhoubiandequ'  >中国</a></li>    
+      </ul>
+</div>
+  </div>
+<div id="block-ratp-search-block">
+   
+      
+<div class="search-block-form" data-drupal-selector="" id="custom-cludo-search-form" role="search">
+    <form method="get" id="search-block-form" accept-charset="UTF-8">
+        <div class="js-form-item form-item js-form-type-search form-item-keys js-form-item-keys form-no-label">
+            <label for="search1" class="visually-hidden">recherche : taper les premières lettres et choisissez dans la liste de suggestion</label>
+            <input id="search1" data-drupal-selector="" type="search" class="form-search" placeholder="What are you looking for ?">
+        </div>
+        <div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="search-form-block-edit-actions--2">
+            <input data-drupal-selector="edit-submit" type="submit" id="edit-submit--search" value="Recherche" class="button js-form-submit form-submit">
+        </div>
+    </form>
+</div>
+
+  </div>
+<div id="block-maratp" class="maratp-menu maratp-menu--header">
+  
+    
+      
+            <div><p><a href="https://maratp.ratp.fr/">Connect to <em>ma</em><strong>RATP</strong></a></p>
+</div>
+      
+  </div>
+
+  </div>
+  
+
+      <div class="raccourcis">
+        <nav  id="block-headersubmenu"  role="navigation" aria-label="Menu principal (version abrégée)">
+              
+     
+
+        
+              <ul class="raccourcis-menu">
+              <li class="raccourcis-menu__item">
+        <a href="/en/itineraires" class="u_left u_menu" data-dialog-type="" data-dialog-options="" target="_self" data-drupal-link-system-path="itineraires">Itinerary</a>
+              </li>
+          <li class="raccourcis-menu__item">
+        <a href="/en/horaires" class="u_left u_menu" data-dialog-type="" data-dialog-options="" target="_self" data-drupal-link-system-path="horaires">Timetables</a>
+              </li>
+          <li class="raccourcis-menu__item">
+        <a href="/en/plans-lignes" class="u_left u_menu is-active" data-dialog-type="" data-dialog-options="" target="_self" data-drupal-link-system-path="plans-lignes">Maps</a>
+              </li>
+          <li class="raccourcis-menu__item">
+        <a href="/en/ratp/modal/tourist-language-selector/nojs" class="u_left u_menu" data-drupal-link-system-path="ratp/modal/tourist-language-selector/nojs">Visiting Paris</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+    <div class="actualite-groupe">
+      <button onclick="toggleGroupButton()" id="actualite-groupe--title" aria-controls="actualite-groupe--content"
+              class="actualite-groupe--title" aria-expanded="false" >
+        Live from the RATP Group      </button>
+      <div id="actualite-groupe--content" class="actualite-groupe--content">
+        <div      class="views-element-container"
+ >
+    <div class="js-view-dom-id-69696b3289779c0d180d0419db5e80a4d57ab0650cf56b60cc0700716aebd3c3 block-groupe-ratp" >
+    
+    
+    
+
+    
+    
+
+    <div class="join-us--type-metier">
+        <div class="groupe-actualite">
+            <ul class="actu-groupe">
+      <li class="actu-groupe__item">
+  <div class="u-colonne u-colonne@small u-colonne@medium u-colonne@large clearfix" id="row-groupe-ratp-10781-0">
+    <div class="actu-groupe__box">
+      <div class="news_date">
+        16/05 - 15h12
+      </div>
+      <div class="news_title">
+        <a href="/en/groupe-ratp/newsroom/mobility-news/ratp-group-and-airbus-sign-a-partnership-study-integrating" hreflang="en">RATP Group and Airbus sign a partnership to study integrating flying vehicles in urban transport</a>
+      </div>
+      <div class="news_tags">
+        
+      </div>
+    </div>
+  </div>
+</li>
+
+      <li class="actu-groupe__item">
+  <div class="u-colonne u-colonne@small u-colonne@medium u-colonne@large clearfix" id="row-groupe-ratp-10715-1">
+    <div class="actu-groupe__box">
+      <div class="news_date">
+        09/05 - 18h35
+      </div>
+      <div class="news_title">
+        <a href="/en/groupe-ratp/newsroom/ratpdev/rkh-qitarat-composed-ratp-dev-keolis-and-hamad-group-opened-doha-metro" hreflang="en">RKH Qitarat, composed of RATP Dev, Keolis and Hamad Group, opened Doha Metro Red Line South</a>
+      </div>
+      <div class="news_tags">
+        
+      </div>
+    </div>
+  </div>
+</li>
+
+      <li class="actu-groupe__item">
+  <div class="u-colonne u-colonne@small u-colonne@medium u-colonne@large clearfix" id="row-groupe-ratp-10422-2">
+    <div class="actu-groupe__box">
+      <div class="news_date">
+        29/03 - 18h28
+      </div>
+      <div class="news_title">
+        <a href="/en/groupe-ratp/newsroom/corporate/ratp-group-2018-results" hreflang="en">RATP Group 2018 results</a>
+      </div>
+      <div class="news_tags">
+        
+      </div>
+    </div>
+  </div>
+</li>
+
+  </ul>
+
+            <div class="twitter_timeline border-block border-block--bleu-twitter">
+                <a class="twitter-timeline" data-width="300" data-tweet-limit="1" data-chrome="noheader nofooter"
+                   href="https://twitter.com/RATPgroup">Tweets by GroupeRATP</a>
+                <script async src="//platform.twitter.com/widgets.js" ></script>
+            </div>
+            <ul class="link_groupe_ratp">
+                <li>
+                    <a href="/groupe-ratp">Learn more about the RATP Group</a>
+                </li>
+                <li>
+                    <a href="/groupe-ratp/newsroom">To the Newsroom</a>
+                </li>
+                <li>
+                    <a href="/recrutement" class="last">Join us</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    
+    
+
+    
+    
+
+    
+    
+</div>
+
+</div>
+
+      </div>
+    </div>
+    <div class="burger-menu-burger">
+      <button onclick="toggleScroll()" class="burger-button burger-button--header" id="burger-button-id"><img
+        src="/themes/ratp/images/burger-open.svg" alt="Menu principal (version complète)"/></button>
+  </div>
+  </div>
+
+  </div>
+  
+    <nav id="menu-principal" role="navigation" aria-label="Menu principal (version complète)">
+        <div class="burger-menu u-toggle__block closed" aria-hidden="true" tabindex="-1" id="burger-menu-panneau">
+    <button  onclick="closeBurgerMenu()" class="burger-button burger-button--burger" id="close-burger-menu-id"><img src="/themes/ratp/images/burger-close.svg" alt="Fermer le menu principal (version complète)" /></button>
+    <div  class="burger-menu__menu"><div id="block-maratp-2" class="maratp-menu maratp-menu--burger">
+  
+    
+      
+            <div><p><a href="https://maratp.ratp.fr/">Connect to <em>ma</em><strong>RATP</strong></a></p>
+</div>
+      
+  </div>
+<div id="block-ratpsearchblock2">
+   
+      
+<div class="search-block-form" data-drupal-selector="" id="custom-cludo-search-form-burger" role="search">
+    <form   method="get" id="search-block-form1" accept-charset="UTF-8">
+        <div class="js-form-item form-item js-form-type-search form-item-keys js-form-item-keys form-no-label">
+            <label for="search2" class="visually-hidden">recherche : taper les premières lettres et choisissez dans la liste de suggestion</label>
+            <input id="search2" data-drupal-selector="" type="search" class="form-search" placeholder="What are you looking for ?">
+        </div>
+        <div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="search-form-block-edit-actions---2">
+            <input data-drupal-selector="edit-submit" type="submit" id="edit-submit---search" value="Recherche" class="button js-form-submit form-submit">
+        </div>
+    </form>
+</div>
+
+  </div>
+<div class="language-switcher-language-url" id="block-selecteurdelangue-2" role="navigation">
+  
+    
+      <div class="dropdown">
+  <button id="language-menu-button-block-selecteurdelangue-2" aria-controls="list-lang-block-selecteurdelangue-2"
+            class="dropdown-button current-en"  aria-expanded="false" onclick ="toggleDropdownVisibility('list-lang-block-selecteurdelangue-2', 'language-menu-button-block-selecteurdelangue-2')">
+                 <span class="mask-acess">langue sélectionnée</span>  
+                 English
+                 <span class="mask-acess"> changer de langue</span>  
+  </button>
+  <ul class="u-toggle__block dropdown-content list-lang" id="list-lang-block-selecteurdelangue-2" >
+                     <li class=u-flag--fr><a href="/plans" class="language-link" hreflang="fr" data-drupal-link-system-path="plans-lignes">Français</a></li>
+                          <li class="bg-grey">Tourist information</li>
+          <li ><a  class='u-flag-lang-switch u-flag--de' href='http://www.ratp.fr/en/visite-paris/deutsch/auf-besuch-paris-und-umgebung'  >Deutsch</a></li>    
+          <li ><a  class='u-flag-lang-switch u-flag--it' href='http://www.ratp.fr/en/visite-paris/italiano/visita-a-parigi-e-dintorni'  >Italiano</a></li>    
+          <li ><a  class='u-flag-lang-switch u-flag--es' href='http://www.ratp.fr/en/visite-paris/espanol/visitar-paris-y-sus-alrededores'  >Español</a></li>    
+          <li ><a  class='u-flag-lang-switch u-flag--nl' href='http://www.ratp.fr/en/visite-paris/nederlandse/op-bezoek-naar-parijs-en-omgeving'  >Nederlandse</a></li>    
+          <li ><a  class='u-flag-lang-switch u-flag--ru' href='http://www.ratp.fr/en/visite-paris/russkiy/pri-poseschenii-parizha-i-ego-okrestnostey'  >русский</a></li>    
+          <li ><a  class='u-flag-lang-switch u-flag--jp' href='http://www.ratp.fr/en/visite-paris/ribenren/harishineijihijinjiaonoguanguang'  >日本人</a></li>    
+          <li ><a  class='u-flag-lang-switch u-flag--br' href='http://www.ratp.fr/en/visite-paris/do-brasil/visitando-paris-e-seus-arredores'  >Do Brasil</a></li>    
+          <li ><a  class='u-flag-lang-switch u-flag--cn' href='http://www.ratp.fr/en/visite-paris/zhongguo/canguanbalijiqizhoubiandequ'  >中国</a></li>    
+      </ul>
+</div>
+  </div>
+    <nav  id="block-navigationprincipale"  role="navigation" aria-label="Menu principal (version abrégée)">
+              
+     
+
+        
+              <ul class="main-menu main-menu-n0" id="burger-menu-id">
+                      <li class="main-menu__item main-menu-n0__item"  class="main-menu__item main-menu-n0__item" area-expanded="false" >
+          <a href="" class="no-link" data-drupal-link-system-path="&lt;front&gt;">Getting around</a>
+                                    <ul class="main-menu main-menu-n1">
+                      <li class="main-menu__item main-menu-n1__item" >
+          <a href="/en/itineraires" data-dialog-type="" data-dialog-options="" target="_self" data-drupal-link-system-path="itineraires">Your itinerary</a>
+                  </li>
+                        <li class="main-menu__item main-menu-n1__item" >
+          <a href="/en/horaires" data-dialog-type="" data-dialog-options="" target="_self" data-drupal-link-system-path="horaires">Hours of operation</a>
+                  </li>
+                        <li class="main-menu__item main-menu-n1__item" >
+          <a href="/en/plans-lignes" data-dialog-type="" data-dialog-options="" target="_self" data-drupal-link-system-path="plans-lignes" class="is-active">Maps</a>
+                  </li>
+                        <li class="main-menu__item main-menu-n1__item" >
+          <a href="/en/infos-trafic" data-dialog-type="" data-dialog-options="" target="_self" data-drupal-link-system-path="infos-trafic">Traffic information</a>
+                  </li>
+                        <li class="main-menu__item main-menu-n1__item" >
+          <a href="/en/titres-et-tarifs" data-dialog-type="" data-dialog-options="" target="_self" data-drupal-link-system-path="titres-et-tarifs">Travel passes and prices</a>
+                  </li>
+                        <li class="main-menu__item main-menu-n1__item" >
+          <a href="/en/aide-contact" data-dialog-type="" data-dialog-options="" target="_self" data-drupal-link-system-path="aide-contact">Help and contact information</a>
+                  </li>
+                        <li class="main-menu__item main-menu-n1__item" >
+          <a href="/en/services-aux-voyageurs" data-dialog-type="" data-dialog-options="" target="_self" data-drupal-link-system-path="services-aux-voyageurs">Passenger services</a>
+                  </li>
+                        <li class="main-menu__item main-menu-n1__item" >
+          <a href="https://www.ratp.fr/vos-lignes" title="Vos lignes">Vos lignes</a>
+                  </li>
+                        <li class="main-menu__item main-menu-n1__item" >
+          <a href="/en/accessibilite" data-dialog-type="" data-dialog-options="" target="_self" data-drupal-link-system-path="accessibilite">Accessibility</a>
+                  </li>
+                        <li class="main-menu__item main-menu-n1__item" >
+          <a href="/en/getting-around-night/its-easy-get-around-night" data-dialog-type="" data-dialog-options="" target="_self" data-drupal-link-system-path="node/3181">Getting around at night</a>
+                  </li>
+                        <li class="main-menu__item main-menu-n1__item" >
+          <a href="/en/ratp/modal/tourist-language-selector/nojs" class="u_left u_menu" data-drupal-link-system-path="ratp/modal/tourist-language-selector/nojs">Visiting Paris</a>
+                  </li>
+              </ul>
+  
+                  </li>
+                        <li class="main-menu__item main-menu-n0__item"  class="main-menu__item main-menu-n0__item" area-expanded="false" >
+          <a href="" class="no-link" data-drupal-link-system-path="&lt;front&gt;">Discover</a>
+                                    <ul class="main-menu main-menu-n1">
+                      <li class="main-menu__item main-menu-n1__item" >
+          <a href="/en/decouvrir" data-drupal-link-system-path="articles-premier-niveau/1">All articles</a>
+                  </li>
+                        <li class="main-menu__item main-menu-n1__item" >
+          <a href="/en/decouvrir/sorties-et-visites" data-drupal-link-system-path="decouvrir/6">Out and about</a>
+                  </li>
+                        <li class="main-menu__item main-menu-n1__item" >
+          <a href="/en/decouvrir/contenus-embarques" data-drupal-link-system-path="decouvrir/11">On-board reading</a>
+                  </li>
+                        <li class="main-menu__item main-menu-n1__item" >
+          <a href="/en/decouvrir/coulisses" data-drupal-link-system-path="decouvrir/16">Behind-the-scenes</a>
+                  </li>
+                        <li class="main-menu__item main-menu-n1__item" >
+          <a href="/en/ratp-apps" rel="nofollow" data-dialog-type="" data-dialog-options="" target="_self" data-drupal-link-system-path="ratp-apps">RATP Apps</a>
+                  </li>
+              </ul>
+  
+                  </li>
+                        <li class="main-menu__item main-menu-n0__item"  class="main-menu__item main-menu-n0__item" area-expanded="false" >
+          <a href="" class="no-link" data-drupal-link-system-path="&lt;front&gt;">RATP Group</a>
+                                    <ul class="main-menu main-menu-n1">
+                      <li class="main-menu__item main-menu-n1__item" >
+          <a href="/en/groupe-ratp" data-drupal-link-system-path="groupe-ratp">All about the Group</a>
+                  </li>
+                        <li class="main-menu__item main-menu-n1__item" >
+          <a href="/en/groupe-ratp/group-presentation/essence-our-group" rel="nofollow" data-dialog-type="" data-dialog-options="" target="_self" data-drupal-link-system-path="node/5171">Group presentation</a>
+                  </li>
+                        <li class="main-menu__item main-menu-n1__item" >
+          <a href="/en/groupe-ratp/our-strategic-priorities/facing-challenges-new-urban-mobility" rel="nofollow" data-drupal-link-system-path="node/8170">Our strategic priorities</a>
+                  </li>
+                        <li class="main-menu__item main-menu-n1__item" >
+          <a href="/en/le-groupe-ratp/nos-expertises" rel="nofollow" data-dialog-type="" data-dialog-options="" target="_self" data-drupal-link-system-path="articles-deuxieme-niveau/4896">Our expertise</a>
+                  </li>
+                        <li class="main-menu__item main-menu-n1__item" >
+          <a href="/en/le-groupe-ratp/nos-offres-de-mobilite" rel="nofollow" data-dialog-type="" data-dialog-options="" target="_self" data-drupal-link-system-path="articles-deuxieme-niveau/4921">Our services</a>
+                  </li>
+                        <li class="main-menu__item main-menu-n1__item" >
+          <a href="/en/le-groupe-ratp/nos-engagements" rel="nofollow" data-dialog-type="" data-dialog-options="" target="_self" data-drupal-link-system-path="articles-deuxieme-niveau/4966">Our commitments</a>
+                  </li>
+                        <li class="main-menu__item main-menu-n1__item" >
+          <a href="/en/groupe-ratp/newsroom" rel="nofollow" data-dialog-type="" data-dialog-options="" target="_self" data-drupal-link-system-path="groupe-ratp/newsroom">Newsroom</a>
+                  </li>
+                        <li class="main-menu__item main-menu-n1__item" >
+          <a href="/en/carrieres" data-dialog-type="" data-dialog-options="" target="_self" data-drupal-link-system-path="recrutement">Career opportunities</a>
+                  </li>
+                        <li class="main-menu__item main-menu-n1__item" >
+          <a href="/en/espace-fournisseurs" rel="nofollow" data-dialog-type="" data-dialog-options="" target="_self" data-drupal-link-system-path="articles-premier-niveau/5171">Suppliers</a>
+                  </li>
+                        <li class="main-menu__item main-menu-n1__item" >
+          <a href="/en/groupe-ratp/agenda" data-drupal-link-system-path="groupe-ratp/agenda">Calendar of events</a>
+                  </li>
+              </ul>
+  
+                  </li>
+              </ul>
+  
+
+
+  </nav>
+<div id="block-socialmedialinks-3" class="block-social-media-links block-region-burger_menu social-share--footer">
+  
+    
+      <ul class="platforms inline horizontal">
+
+  <li class="social_share_icn">
+    
+        <a href="https://www.facebook.com/RATPofficiel" >
+    
+
+
+            <i class="fab fa-facebook-f" aria-labelledby="facebook-icon-burger-menu"></i>
+    
+      </a>
+  
+  </li>
+<li class="social_share_icn">
+    
+        <a href="https://soundcloud.com/ratp_officiel" >
+    
+
+
+            <i class="fab fa-soundcloud" aria-labelledby="tumblr-icon-burger-menu"></i>
+   
+      </a>
+  
+  </li>
+<li class="social_share_icn">
+    
+        <a href="https://www.youtube.com/user/ratp" >
+    
+
+
+            <i class="fab fa-youtube-square" aria-labelledby="youtube-icon-burger-menu"></i>
+
+      </a>
+  
+  </li>
+<li class="social_share_icn">
+    
+        <a href="https://www.linkedin.com/company/ratp" >
+    
+
+
+            <i class="fab fa-linkedin-in" aria-labelledby="linkedin-icon-burger-menu"></i>
+
+      </a>
+  
+  </li>
+<li class="social_share_icn">
+                        
+        <a class="use-ajax" id="modal-tw-icn-block-socialmedialinks-3" href="/en/ratp_social_networks/twitter" >
+      <i class="fab fa-twitter" aria-labelledby="twitter-icon-burger-menu" ></i>
+    </a>
+    
+  </li>
+<li class="social_share_icn">
+    
+        <a href="https://www.instagram.com/ratp/" >
+    
+
+
+            <i class="fab fa-instagram" aria-labelledby="instagram-icon-burger-menu" ></i>
+    
+      </a>
+  
+  </li>
+</ul>
+
+  </div>
+</div>
+  </div>
+
+    </nav>
+        
+  </header>
+  
+
+    <main class="main clearfix" role="main">
+        <a id="main-content" tabindex="-1"></a>                    <div class="page-header page-header@medium page-header@large">
+                <div class="u-page-header-colonne u-page-header-colonne@small u-page-header-colonne@medium u-page-header-colonne@large">
+                    <h1 class="u-titre--page-header u-titre--page-header@small u-titre--page-header@medium u-titre--page-header@large">Maps</h1>
+                </div>
+            </div>
+        
+          <div class="region--breadcrumbs breadcrumbs">
+    <div class="u-colonne u-colonne@small u-colonne@medium u-colonne@large clearfix">
+      <div id="block-breadcrumbs" class="block-breadcrumbs">
+  
+    
+        <nav role="navigation" aria-label="Fil d'Ariane">
+    <h2 id="system-breadcrumb" class="visually-hidden">Breadcrumb</h2>
+    <ol class="breadcrumbs__list">
+          <li class="breadcrumbs__item ">
+                  <a class="breadcrumbs__link" href="/en">Home</a>
+              </li>
+          <li class="breadcrumbs__item  active ">
+                  <a class="breadcrumbs__link" href="/en/plans-lignes">Maps</a>
+              </li>
+        </ol>
+  </nav>
+
+  </div>
+
+    </div>
+  </div>
+
+
+
+
+        
+
+        
+
+        <div class="layout-content u-hub u-bg-grey clearfix">
+            <div class="article-colonne article-colonne@small article-colonne@medium article-colonne--wide@large">
+                                                  <div>
+    
+  </div>
+
+
+                <div class="u-gridless-flow">
+                                        <div class="u-gridless-flow__item">
+
+                                                                            <h2>In my vicinity</h2>
+                            <div> <div     
+ >
+    
+<div class="ixxi-planquartier-search-wrapper">
+    <form class="planquartiersearchform" data-drupal-selector="planquartiersearchform" action="/en/plan-quartier" method="get" id="planquartiersearchform" accept-charset="UTF-8">
+  <div      class="u-gridless-flow__item js-form-wrapper form-wrapper" data-drupal-selector="edit-first-container" id="edit-first-container"
+ >
+    
+
+  <div class="js-form-item form-item js-form-type-textfield form-item-address js-form-item-address">
+          <label for="address">From</label>
+                <input placeholder="place, station, address" class="stopPointAutoComplete form-text" autocomplete="on" data-drupal-selector="address" type="text" id="address" name="address" value="" size="60" maxlength="128" />
+
+                  </div>
+<input data-drupal-selector="edit-localisation" type="hidden" name="localisation" value="" />
+<div      class="suggestion-wrapper js-form-wrapper form-wrapper" data-drupal-selector="edit-address-suggestion-wrapper" id="edit-address-suggestion-wrapper"
+ >
+    <span class="suggestion-text"> Veuillez préciser l'adresse souhaitée :</span>
+
+  <div class="js-form-item form-item js-form-type-select form-item-address-suggestion js-form-item-address-suggestion form-disabled">
+          <label for="address_suggestion">From</label>
+                <select disabled="disabled" data-drupal-selector="address-suggestion" id="address_suggestion" name="address_suggestion" class="form-select"></select>
+                  </div>
+<span class="close-address-suggestion">X</span>
+</div>
+
+</div>
+<div      class="u-gridless-flow__item js-form-wrapper form-wrapper" data-drupal-selector="edit-second-container" id="edit-second-container"
+ >
+    
+</div>
+<div      class="u-gridless-flow__item js-form-wrapper form-wrapper" data-drupal-selector="edit-third-container" id="search-form-block-edit-third-container"
+ >
+    <input data-drupal-selector="edit-submit" type="submit" id="edit-submit" name="op" value="Search" class="button js-form-submit form-submit" />
+<a href="#" id="reset-search-form"><span>New search</span></a>
+</div>
+<input autocomplete="off" data-drupal-selector="form-yiugrz9jzgv-7qvsds4-pbv5990atf-njhddprz7bi4" type="hidden" name="form_build_id" value="form-yiUgrz9jzGV_7qVsds4-PbV5990AtF_nJHDDpRZ7Bi4" />
+<input data-drupal-selector="edit-planquartiersearchform" type="hidden" name="form_id" value="planquartiersearchform" />
+
+</form>
+
+</div>
+
+<div class="ixxi-planquartier-result-wrapper">
+    </div>
+
+</div>
+ </div>
+                                                
+                                                                            <div class="plans-mode-transport">
+                                <h2>Key maps</h2>
+                                                                <ul class="u-ul-reset">
+                                                                            <li id="active-1"
+                                            class="">
+                                             <a class="image-mode-ligne"
+                                                                                            href="/en/plans-lignes/plan-metro">                                                <span class="plan plan-metro"></span>
+                                                <span class="plan--essentiel-texte">Metro map</span>
+                                                 </a>                                        </li>
+                                                                                                                    <li id="active-2"
+                                            class="">
+                                             <a class="image-mode-ligne"
+                                                                                            href="/en/plans-lignes/plan-rer-et-transiliens">                                                <span class="plan plan-rer-et-transiliens"></span>
+                                                <span class="plan--essentiel-texte">RER and Transiliens map</span>
+                                                 </a>                                        </li>
+                                                                                                                    <li id="active-3"
+                                            class="">
+                                             <a class="image-mode-ligne"
+                                                                                            href="/en/plans-lignes/plan-des-bus">                                                <span class="plan plan-des-bus"></span>
+                                                <span class="plan--essentiel-texte">Bus map</span>
+                                                 </a>                                        </li>
+                                                                                                                    <li id="active-4"
+                                            class="">
+                                             <a class="image-mode-ligne"
+                                                                                            href="/en/plans-lignes/plan-des-noctilien">                                                <span class="plan plan-des-noctilien"></span>
+                                                <span class="plan--essentiel-texte">Night bus map</span>
+                                                 </a>                                        </li>
+                                                                                                                    <li id="active-5"
+                                            class="">
+                                             <a class="image-mode-ligne"
+                                                                                            href="/en/plans-lignes/acces-aeroports">                                                <span class="plan acces-aeroports"></span>
+                                                <span class="plan--essentiel-texte">Airport access</span>
+                                                 </a>                                        </li>
+                                                                                                            </ul>
+                            </div>
+                                                
+                                                                            <div class="plans-lignes squeezebox">
+                                <h2>Line maps</h2>
+                                                                <ul class="u-ul-reset">
+                                                                            <li>
+                                                                                            <h3 class="squeezhead">
+                        <span class="picto rer symbole">
+                                                      <img src="/sites/default/files/lines-assets/picto/rer/symbole.1541586932.svg"
+                                 data-ratp-network-name="rer" data-ratp-line-key="symbole"
+                                 alt="rer symbole"/>
+                        </span>
+                                                    <span>RER</span>
+                                                                                                        <button id="plans-menu-button-1"
+                                                            aria-controls="accordeon-1"
+                                                            onclick="toggleDropdownVisibility('accordeon-1','plans-menu-button-1', 'true');"
+                                                            class="button-menu-trigger plans-menu-button"
+                                                            aria-expanded="false"><img
+                                                                src="/themes/ratp/images/dropdown-accordeon-down.svg"/>
+                                                    </button>
+                                                </h3>
+                                            
+                                                                                                                                            <ul class="squeezecnt" id="accordeon-1"
+                                                    style="display: none;">
+
+                                                                                                                                                            
+                                                    
+                                                                                                                    <li class="div-rer">
+                                                                <div id="active-6"
+                                                                     class="">
+                                                                    <a class="rer image-mode-ligne"
+                                                                       href="/en/plans-lignes/rer/a">
+                              <span class="picto rer ligneA">
+                                                                  <img src="/sites/default/files/lines-assets/picto/rer/picto_rer_ligne-a.1496915888.svg"
+                                       data-ratp-network-name="rer"
+                                       data-ratp-line-key="A"
+                                       alt="rer A"/>
+                              </span>
+                                                                        <span class="nameAffiche">Line A</span>
+                                                                                                                                            </a>
+                                                                    <a href="/sites/default/files/lines-assets/plan-de-ligne/rer/plan-de-ligne_rer_ligne-a.1504861831.pdf"
+                                                                       class="plan-lignes--download-pdf"
+                                                                       download="A">
+                                                                        Download                                                                    </a>
+                                                                </div>
+                                                            </li>
+                                                                                                                                                                                <li class="div-rer">
+                                                                <div id="active-7"
+                                                                     class="">
+                                                                    <a class="rer image-mode-ligne"
+                                                                       href="/en/plans-lignes/rer/b">
+                              <span class="picto rer ligneB">
+                                                                  <img src="/sites/default/files/lines-assets/picto/rer/picto_rer_ligne-b.1496915889.svg"
+                                       data-ratp-network-name="rer"
+                                       data-ratp-line-key="B"
+                                       alt="rer B"/>
+                              </span>
+                                                                        <span class="nameAffiche">Line B</span>
+                                                                                                                                            </a>
+                                                                    <a href="/sites/default/files/lines-assets/plan-de-ligne/rer/plan-de-ligne_rer_ligne-b.1504861848.pdf"
+                                                                       class="plan-lignes--download-pdf"
+                                                                       download="B">
+                                                                        Download                                                                    </a>
+                                                                </div>
+                                                            </li>
+                                                                                                                    
+                                                                                                    </ul>
+                                                                                                                                </li>
+                                                                            <li>
+                                                                                            <h3 class="squeezhead">
+                        <span class="picto metro symbole">
+                                                      <img src="/sites/default/files/lines-assets/picto/metro/symbole.1541586932.svg"
+                                 data-ratp-network-name="metro" data-ratp-line-key="symbole"
+                                 alt="metro symbole"/>
+                        </span>
+                                                    <span>Metro</span>
+                                                                                                        <button id="plans-menu-button-2"
+                                                            aria-controls="accordeon-2"
+                                                            onclick="toggleDropdownVisibility('accordeon-2','plans-menu-button-2', 'true');"
+                                                            class="button-menu-trigger plans-menu-button"
+                                                            aria-expanded="false"><img
+                                                                src="/themes/ratp/images/dropdown-accordeon-down.svg"/>
+                                                    </button>
+                                                </h3>
+                                            
+                                                                                                                                            <ul class="squeezecnt" id="accordeon-2"
+                                                    style="display: none;">
+
+                                                                                                                                                            
+                                                    
+                                                                                                                    <li class="div-metro">
+                                                                <div id="active-8"
+                                                                     class="">
+                                                                    <a class="metro image-mode-ligne"
+                                                                       href="/en/plans-lignes/metro/orv">
+                              <span class="picto metro ligneOrv">
+                                                                  <img src="/sites/default/files/lines-assets/picto/metro/picto_metro_ligne-orv.1516805488.svg"
+                                       data-ratp-network-name="metro"
+                                       data-ratp-line-key="Orv"
+                                       alt="metro Orv"/>
+                              </span>
+                                                                        <span class="nameAffiche">Ligne Orv</span>
+                                                                                                                                            </a>
+                                                                    <a href="/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-orv.1553172577.pdf"
+                                                                       class="plan-lignes--download-pdf"
+                                                                       download="Orv">
+                                                                        Download                                                                    </a>
+                                                                </div>
+                                                            </li>
+                                                                                                                                                                                <li class="div-metro">
+                                                                <div id="active-9"
+                                                                     class="">
+                                                                    <a class="metro image-mode-ligne"
+                                                                       href="/en/plans-lignes/metro/1">
+                              <span class="picto metro ligne1">
+                                                                  <img src="/sites/default/files/lines-assets/picto/metro/picto_metro_ligne-1.1496915879.svg"
+                                       data-ratp-network-name="metro"
+                                       data-ratp-line-key="1"
+                                       alt="metro 1"/>
+                              </span>
+                                                                        <span class="nameAffiche">Line 1</span>
+                                                                                                                                            </a>
+                                                                    <a href="/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-1.1504859323.pdf"
+                                                                       class="plan-lignes--download-pdf"
+                                                                       download="1">
+                                                                        Download                                                                    </a>
+                                                                </div>
+                                                            </li>
+                                                                                                                                                                                <li class="div-metro">
+                                                                <div id="active-10"
+                                                                     class="">
+                                                                    <a class="metro image-mode-ligne"
+                                                                       href="/en/plans-lignes/metro/2">
+                              <span class="picto metro ligne2">
+                                                                  <img src="/sites/default/files/lines-assets/picto/metro/picto_metro_ligne-2.1496915880.svg"
+                                       data-ratp-network-name="metro"
+                                       data-ratp-line-key="2"
+                                       alt="metro 2"/>
+                              </span>
+                                                                        <span class="nameAffiche">Line 2</span>
+                                                                                                                                            </a>
+                                                                    <a href="/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-2.1504859337.pdf"
+                                                                       class="plan-lignes--download-pdf"
+                                                                       download="2">
+                                                                        Download                                                                    </a>
+                                                                </div>
+                                                            </li>
+                                                                                                                                                                                <li class="div-metro">
+                                                                <div id="active-11"
+                                                                     class="">
+                                                                    <a class="metro image-mode-ligne"
+                                                                       href="/en/plans-lignes/metro/3">
+                              <span class="picto metro ligne3">
+                                                                  <img src="/sites/default/files/lines-assets/picto/metro/picto_metro_ligne-3.1496915880.svg"
+                                       data-ratp-network-name="metro"
+                                       data-ratp-line-key="3"
+                                       alt="metro 3"/>
+                              </span>
+                                                                        <span class="nameAffiche">Line 3</span>
+                                                                                                                                            </a>
+                                                                    <a href="/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-3.1504859355.pdf"
+                                                                       class="plan-lignes--download-pdf"
+                                                                       download="3">
+                                                                        Download                                                                    </a>
+                                                                </div>
+                                                            </li>
+                                                                                                                                                                                <li class="div-metro">
+                                                                <div id="active-12"
+                                                                     class="">
+                                                                    <a class="metro image-mode-ligne"
+                                                                       href="/en/plans-lignes/metro/3b">
+                              <span class="picto metro ligne3b">
+                                                                  <img src="/sites/default/files/lines-assets/picto/metro/picto_metro_ligne-3b.1496915880.svg"
+                                       data-ratp-network-name="metro"
+                                       data-ratp-line-key="3b"
+                                       alt="metro 3b"/>
+                              </span>
+                                                                        <span class="nameAffiche">Line 3b</span>
+                                                                                                                                            </a>
+                                                                    <a href="/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-3b.1504859369.pdf"
+                                                                       class="plan-lignes--download-pdf"
+                                                                       download="3b">
+                                                                        Download                                                                    </a>
+                                                                </div>
+                                                            </li>
+                                                                                                                                                                                <li class="div-metro">
+                                                                <div id="active-13"
+                                                                     class="">
+                                                                    <a class="metro image-mode-ligne"
+                                                                       href="/en/plans-lignes/metro/4">
+                              <span class="picto metro ligne4">
+                                                                  <img src="/sites/default/files/lines-assets/picto/metro/picto_metro_ligne-4.1496915880.svg"
+                                       data-ratp-network-name="metro"
+                                       data-ratp-line-key="4"
+                                       alt="metro 4"/>
+                              </span>
+                                                                        <span class="nameAffiche">Line 4</span>
+                                                                                                                                            </a>
+                                                                    <a href="/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-4.1504859392.pdf"
+                                                                       class="plan-lignes--download-pdf"
+                                                                       download="4">
+                                                                        Download                                                                    </a>
+                                                                </div>
+                                                            </li>
+                                                                                                                                                                                <li class="div-metro">
+                                                                <div id="active-14"
+                                                                     class="">
+                                                                    <a class="metro image-mode-ligne"
+                                                                       href="/en/plans-lignes/metro/5">
+                              <span class="picto metro ligne5">
+                                                                  <img src="/sites/default/files/lines-assets/picto/metro/picto_metro_ligne-5.1496915880.svg"
+                                       data-ratp-network-name="metro"
+                                       data-ratp-line-key="5"
+                                       alt="metro 5"/>
+                              </span>
+                                                                        <span class="nameAffiche">Line 5</span>
+                                                                                                                                            </a>
+                                                                    <a href="/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-5.1504859407.pdf"
+                                                                       class="plan-lignes--download-pdf"
+                                                                       download="5">
+                                                                        Download                                                                    </a>
+                                                                </div>
+                                                            </li>
+                                                                                                                                                                                <li class="div-metro">
+                                                                <div id="active-15"
+                                                                     class="">
+                                                                    <a class="metro image-mode-ligne"
+                                                                       href="/en/plans-lignes/metro/6">
+                              <span class="picto metro ligne6">
+                                                                  <img src="/sites/default/files/lines-assets/picto/metro/picto_metro_ligne-6.1496915880.svg"
+                                       data-ratp-network-name="metro"
+                                       data-ratp-line-key="6"
+                                       alt="metro 6"/>
+                              </span>
+                                                                        <span class="nameAffiche">Line 6</span>
+                                                                                                                                            </a>
+                                                                    <a href="/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-6.1508751153.pdf"
+                                                                       class="plan-lignes--download-pdf"
+                                                                       download="6">
+                                                                        Download                                                                    </a>
+                                                                </div>
+                                                            </li>
+                                                                                                                                                                                <li class="div-metro">
+                                                                <div id="active-16"
+                                                                     class="">
+                                                                    <a class="metro image-mode-ligne"
+                                                                       href="/en/plans-lignes/metro/7">
+                              <span class="picto metro ligne7">
+                                                                  <img src="/sites/default/files/lines-assets/picto/metro/picto_metro_ligne-7.1496915880.svg"
+                                       data-ratp-network-name="metro"
+                                       data-ratp-line-key="7"
+                                       alt="metro 7"/>
+                              </span>
+                                                                        <span class="nameAffiche">Line 7</span>
+                                                                                                                                            </a>
+                                                                    <a href="/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-7.1504859450.pdf"
+                                                                       class="plan-lignes--download-pdf"
+                                                                       download="7">
+                                                                        Download                                                                    </a>
+                                                                </div>
+                                                            </li>
+                                                                                                                                                                                <li class="div-metro">
+                                                                <div id="active-17"
+                                                                     class="">
+                                                                    <a class="metro image-mode-ligne"
+                                                                       href="/en/plans-lignes/metro/7b">
+                              <span class="picto metro ligne7b">
+                                                                  <img src="/sites/default/files/lines-assets/picto/metro/picto_metro_ligne-7b.1496915880.svg"
+                                       data-ratp-network-name="metro"
+                                       data-ratp-line-key="7b"
+                                       alt="metro 7b"/>
+                              </span>
+                                                                        <span class="nameAffiche">Line 7b</span>
+                                                                                                                                            </a>
+                                                                    <a href="/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-7b.1504859504.pdf"
+                                                                       class="plan-lignes--download-pdf"
+                                                                       download="7b">
+                                                                        Download                                                                    </a>
+                                                                </div>
+                                                            </li>
+                                                                                                                                                                                <li class="div-metro">
+                                                                <div id="active-18"
+                                                                     class="">
+                                                                    <a class="metro image-mode-ligne"
+                                                                       href="/en/plans-lignes/metro/8">
+                              <span class="picto metro ligne8">
+                                                                  <img src="/sites/default/files/lines-assets/picto/metro/picto_metro_ligne-8.1496915881.svg"
+                                       data-ratp-network-name="metro"
+                                       data-ratp-line-key="8"
+                                       alt="metro 8"/>
+                              </span>
+                                                                        <span class="nameAffiche">Line 8</span>
+                                                                                                                                            </a>
+                                                                    <a href="/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-8.1504859537.pdf"
+                                                                       class="plan-lignes--download-pdf"
+                                                                       download="8">
+                                                                        Download                                                                    </a>
+                                                                </div>
+                                                            </li>
+                                                                                                                                                                                <li class="div-metro">
+                                                                <div id="active-19"
+                                                                     class="">
+                                                                    <a class="metro image-mode-ligne"
+                                                                       href="/en/plans-lignes/metro/9">
+                              <span class="picto metro ligne9">
+                                                                  <img src="/sites/default/files/lines-assets/picto/metro/picto_metro_ligne-9.1496915881.svg"
+                                       data-ratp-network-name="metro"
+                                       data-ratp-line-key="9"
+                                       alt="metro 9"/>
+                              </span>
+                                                                        <span class="nameAffiche">Line 9</span>
+                                                                                                                                            </a>
+                                                                    <a href="/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-9.1504859554.pdf"
+                                                                       class="plan-lignes--download-pdf"
+                                                                       download="9">
+                                                                        Download                                                                    </a>
+                                                                </div>
+                                                            </li>
+                                                                                                                                                                                <li class="div-metro">
+                                                                <div id="active-20"
+                                                                     class="">
+                                                                    <a class="metro image-mode-ligne"
+                                                                       href="/en/plans-lignes/metro/10">
+                              <span class="picto metro ligne10">
+                                                                  <img src="/sites/default/files/lines-assets/picto/metro/picto_metro_ligne-10.1496915879.svg"
+                                       data-ratp-network-name="metro"
+                                       data-ratp-line-key="10"
+                                       alt="metro 10"/>
+                              </span>
+                                                                        <span class="nameAffiche">Line 10</span>
+                                                                                                                                            </a>
+                                                                    <a href="/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-10.1504859573.pdf"
+                                                                       class="plan-lignes--download-pdf"
+                                                                       download="10">
+                                                                        Download                                                                    </a>
+                                                                </div>
+                                                            </li>
+                                                                                                                                                                                <li class="div-metro">
+                                                                <div id="active-21"
+                                                                     class="">
+                                                                    <a class="metro image-mode-ligne"
+                                                                       href="/en/plans-lignes/metro/11">
+                              <span class="picto metro ligne11">
+                                                                  <img src="/sites/default/files/lines-assets/picto/metro/picto_metro_ligne-11.1496915879.svg"
+                                       data-ratp-network-name="metro"
+                                       data-ratp-line-key="11"
+                                       alt="metro 11"/>
+                              </span>
+                                                                        <span class="nameAffiche">Line 11</span>
+                                                                                                                                            </a>
+                                                                    <a href="/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-11.1504859591.pdf"
+                                                                       class="plan-lignes--download-pdf"
+                                                                       download="11">
+                                                                        Download                                                                    </a>
+                                                                </div>
+                                                            </li>
+                                                                                                                                                                                <li class="div-metro">
+                                                                <div id="active-22"
+                                                                     class="">
+                                                                    <a class="metro image-mode-ligne"
+                                                                       href="/en/plans-lignes/metro/12">
+                              <span class="picto metro ligne12">
+                                                                  <img src="/sites/default/files/lines-assets/picto/metro/picto_metro_ligne-12.1496915879.svg"
+                                       data-ratp-network-name="metro"
+                                       data-ratp-line-key="12"
+                                       alt="metro 12"/>
+                              </span>
+                                                                        <span class="nameAffiche">Line 12</span>
+                                                                                                                                            </a>
+                                                                    <a href="/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-12.1504859609.pdf"
+                                                                       class="plan-lignes--download-pdf"
+                                                                       download="12">
+                                                                        Download                                                                    </a>
+                                                                </div>
+                                                            </li>
+                                                                                                                                                                                <li class="div-metro">
+                                                                <div id="active-23"
+                                                                     class="">
+                                                                    <a class="metro image-mode-ligne"
+                                                                       href="/en/plans-lignes/metro/13">
+                              <span class="picto metro ligne13">
+                                                                  <img src="/sites/default/files/lines-assets/picto/metro/picto_metro_ligne-13.1496915879.svg"
+                                       data-ratp-network-name="metro"
+                                       data-ratp-line-key="13"
+                                       alt="metro 13"/>
+                              </span>
+                                                                        <span class="nameAffiche">Line 13</span>
+                                                                                                                                            </a>
+                                                                    <a href="/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-13.1547821800.pdf"
+                                                                       class="plan-lignes--download-pdf"
+                                                                       download="13">
+                                                                        Download                                                                    </a>
+                                                                </div>
+                                                            </li>
+                                                                                                                                                                                <li class="div-metro">
+                                                                <div id="active-24"
+                                                                     class="">
+                                                                    <a class="metro image-mode-ligne"
+                                                                       href="/en/plans-lignes/metro/14">
+                              <span class="picto metro ligne14">
+                                                                  <img src="/sites/default/files/lines-assets/picto/metro/picto_metro_ligne-14.1496915879.svg"
+                                       data-ratp-network-name="metro"
+                                       data-ratp-line-key="14"
+                                       alt="metro 14"/>
+                              </span>
+                                                                        <span class="nameAffiche">Line 14</span>
+                                                                                                                                            </a>
+                                                                    <a href="/sites/default/files/lines-assets/plan-de-ligne/metro/plan-de-ligne_metro_ligne-14.1504859646.pdf"
+                                                                       class="plan-lignes--download-pdf"
+                                                                       download="14">
+                                                                        Download                                                                    </a>
+                                                                </div>
+                                                            </li>
+                                                                                                                    
+                                                                                                    </ul>
+                                                                                                                                </li>
+                                                                            <li>
+                                                                                            <h3 class="squeezhead">
+                        <span class="picto tram symbole">
+                                                      <img src="/sites/default/files/lines-assets/picto/tram/symbole.1541586932.svg"
+                                 data-ratp-network-name="tram" data-ratp-line-key="symbole"
+                                 alt="tram symbole"/>
+                        </span>
+                                                    <span>Tramway</span>
+                                                                                                        <button id="plans-menu-button-3"
+                                                            aria-controls="accordeon-3"
+                                                            onclick="toggleDropdownVisibility('accordeon-3','plans-menu-button-3', 'true');"
+                                                            class="button-menu-trigger plans-menu-button"
+                                                            aria-expanded="false"><img
+                                                                src="/themes/ratp/images/dropdown-accordeon-down.svg"/>
+                                                    </button>
+                                                </h3>
+                                            
+                                                                                                                                            <ul class="squeezecnt" id="accordeon-3"
+                                                    style="display: none;">
+
+                                                                                                                                                            
+                                                    
+                                                                                                                    <li class="div-tram">
+                                                                <div id="active-25"
+                                                                     class="">
+                                                                    <a class="tram image-mode-ligne"
+                                                                       href="/en/plans-lignes/tram/t1">
+                              <span class="picto tram ligneT1">
+                                                                  <img src="/sites/default/files/lines-assets/picto/tram/picto_tram_ligne-t1.1496915890.svg"
+                                       data-ratp-network-name="tram"
+                                       data-ratp-line-key="T1"
+                                       alt="tram T1"/>
+                              </span>
+                                                                        <span class="nameAffiche">Line T1</span>
+                                                                                                                                            </a>
+                                                                    <a href="/sites/default/files/lines-assets/plan-de-ligne/tram/plan-de-ligne_tram_ligne-t1.1547821834.pdf"
+                                                                       class="plan-lignes--download-pdf"
+                                                                       download="T1">
+                                                                        Download                                                                    </a>
+                                                                </div>
+                                                            </li>
+                                                                                                                                                                                <li class="div-tram">
+                                                                <div id="active-26"
+                                                                     class="">
+                                                                    <a class="tram image-mode-ligne"
+                                                                       href="/en/plans-lignes/tram/t2">
+                              <span class="picto tram ligneT2">
+                                                                  <img src="/sites/default/files/lines-assets/picto/tram/picto_tram_ligne-t2.1496915890.svg"
+                                       data-ratp-network-name="tram"
+                                       data-ratp-line-key="T2"
+                                       alt="tram T2"/>
+                              </span>
+                                                                        <span class="nameAffiche">Line T2</span>
+                                                                                                                                            </a>
+                                                                    <a href="/sites/default/files/lines-assets/plan-de-ligne/tram/plan-de-ligne_tram_ligne-t2.1547821870.pdf"
+                                                                       class="plan-lignes--download-pdf"
+                                                                       download="T2">
+                                                                        Download                                                                    </a>
+                                                                </div>
+                                                            </li>
+                                                                                                                                                                                <li class="div-tram">
+                                                                <div id="active-27"
+                                                                     class="">
+                                                                    <a class="tram image-mode-ligne"
+                                                                       href="/en/plans-lignes/tram/t3a">
+                              <span class="picto tram ligneT3a">
+                                                                  <img src="/sites/default/files/lines-assets/picto/tram/picto_tram_ligne-t3a.1496915890.svg"
+                                       data-ratp-network-name="tram"
+                                       data-ratp-line-key="T3a"
+                                       alt="tram T3a"/>
+                              </span>
+                                                                        <span class="nameAffiche">Ligne T3a</span>
+                                                                                                                                            </a>
+                                                                    <a href="/sites/default/files/lines-assets/plan-de-ligne/tram/plan-de-ligne_tram_ligne-t3a.1547821950.pdf"
+                                                                       class="plan-lignes--download-pdf"
+                                                                       download="T3a">
+                                                                        Download                                                                    </a>
+                                                                </div>
+                                                            </li>
+                                                                                                                                                                                <li class="div-tram">
+                                                                <div id="active-28"
+                                                                     class="">
+                                                                    <a class="tram image-mode-ligne"
+                                                                       href="/en/plans-lignes/tram/t3b">
+                              <span class="picto tram ligneT3b">
+                                                                  <img src="/sites/default/files/lines-assets/picto/tram/picto_tram_ligne-t3b.1496915890.svg"
+                                       data-ratp-network-name="tram"
+                                       data-ratp-line-key="T3b"
+                                       alt="tram T3b"/>
+                              </span>
+                                                                        <span class="nameAffiche">Ligne T3b</span>
+                                                                                                                                            </a>
+                                                                    <a href="/sites/default/files/lines-assets/plan-de-ligne/tram/plan-de-ligne_tram_ligne-t3b.1547805337.pdf"
+                                                                       class="plan-lignes--download-pdf"
+                                                                       download="T3b">
+                                                                        Download                                                                    </a>
+                                                                </div>
+                                                            </li>
+                                                                                                                                                                                <li class="div-tram">
+                                                                <div id="active-29"
+                                                                     class="">
+                                                                    <a class="tram image-mode-ligne"
+                                                                       href="/en/plans-lignes/tram/t5">
+                              <span class="picto tram ligneT5">
+                                                                  <img src="/sites/default/files/lines-assets/picto/tram/picto_tram_ligne-t5.1496915891.svg"
+                                       data-ratp-network-name="tram"
+                                       data-ratp-line-key="T5"
+                                       alt="tram T5"/>
+                              </span>
+                                                                        <span class="nameAffiche">Line T5</span>
+                                                                                                                                            </a>
+                                                                    <a href="/sites/default/files/lines-assets/plan-de-ligne/tram/plan-de-ligne_tram_ligne-t5.1547821986.pdf"
+                                                                       class="plan-lignes--download-pdf"
+                                                                       download="T5">
+                                                                        Download                                                                    </a>
+                                                                </div>
+                                                            </li>
+                                                                                                                                                                                <li class="div-tram">
+                                                                <div id="active-30"
+                                                                     class="">
+                                                                    <a class="tram image-mode-ligne"
+                                                                       href="/en/plans-lignes/tram/t6">
+                              <span class="picto tram ligneT6">
+                                                                  <img src="/sites/default/files/lines-assets/picto/tram/picto_tram_ligne-t6.1496915891.svg"
+                                       data-ratp-network-name="tram"
+                                       data-ratp-line-key="T6"
+                                       alt="tram T6"/>
+                              </span>
+                                                                        <span class="nameAffiche">Line T6</span>
+                                                                                                                                            </a>
+                                                                    <a href="/sites/default/files/lines-assets/plan-de-ligne/tram/plan-de-ligne_tram_ligne-t6.1547822020.pdf"
+                                                                       class="plan-lignes--download-pdf"
+                                                                       download="T6">
+                                                                        Download                                                                    </a>
+                                                                </div>
+                                                            </li>
+                                                                                                                                                                                <li class="div-tram">
+                                                                <div id="active-31"
+                                                                     class="">
+                                                                    <a class="tram image-mode-ligne"
+                                                                       href="/en/plans-lignes/tram/t7">
+                              <span class="picto tram ligneT7">
+                                                                  <img src="/sites/default/files/lines-assets/picto/tram/picto_tram_ligne-t7.1496915891.svg"
+                                       data-ratp-network-name="tram"
+                                       data-ratp-line-key="T7"
+                                       alt="tram T7"/>
+                              </span>
+                                                                        <span class="nameAffiche">Line T7</span>
+                                                                                                                                            </a>
+                                                                    <a href="/sites/default/files/lines-assets/plan-de-ligne/tram/plan-de-ligne_tram_ligne-t7.1547822046.pdf"
+                                                                       class="plan-lignes--download-pdf"
+                                                                       download="T7">
+                                                                        Download                                                                    </a>
+                                                                </div>
+                                                            </li>
+                                                                                                                                                                                <li class="div-tram">
+                                                                <div id="active-32"
+                                                                     class="">
+                                                                    <a class="tram image-mode-ligne"
+                                                                       href="/en/plans-lignes/tram/t8">
+                              <span class="picto tram ligneT8">
+                                                                  <img src="/sites/default/files/lines-assets/picto/tram/picto_tram_ligne-t8.1496915891.svg"
+                                       data-ratp-network-name="tram"
+                                       data-ratp-line-key="T8"
+                                       alt="tram T8"/>
+                              </span>
+                                                                        <span class="nameAffiche">Line T8</span>
+                                                                                                                                            </a>
+                                                                    <a href="/sites/default/files/lines-assets/plan-de-ligne/tram/plan-de-ligne_tram_ligne-t8.1547822070.pdf"
+                                                                       class="plan-lignes--download-pdf"
+                                                                       download="T8">
+                                                                        Download                                                                    </a>
+                                                                </div>
+                                                            </li>
+                                                                                                                    
+                                                                                                    </ul>
+                                                                                                                                </li>
+                                                                            <li>
+                                                                                            <h3 class="squeezhead">
+                        <span class="picto bus symbole">
+                                                      <img src="/sites/default/files/network/bus/symbole.1541586932.svg"
+                                 data-ratp-network-name="bus" data-ratp-line-key="symbole"
+                                 alt="bus symbole"/>
+                        </span>
+                                                    <span>Bus & night bus</span>
+                                                                                                        <button id="plans-menu-button-4"
+                                                            aria-controls="accordeon-4"
+                                                            onclick="toggleDropdownVisibility('accordeon-4','plans-menu-button-4', 'true');"
+                                                            class="button-menu-trigger plans-menu-button"
+                                                            aria-expanded="false"><img
+                                                                src="/themes/ratp/images/dropdown-accordeon-down.svg"/>
+                                                    </button>
+                                                </h3>
+                                            
+                                                                                                                                            <ul class="squeezecnt" id="accordeon-4"
+                                                    style="display: none;">
+
+                                                                                                                                                                <div class="divAutocomplete">
+                                                            <label>Afficher un plan de
+                                                                ligne</label>
+                                                            <input id="autocompleteBusNoctilien"/>
+                                                            <a class=""
+                                                               href="#" title="">ok</a>
+                                                        </div>
+                                                                                                        
+                                                                                                    </ul>
+                                                                                                                                </li>
+                                                                    </ul>
+                            </div>
+                                                                    </div>
+                                                            <div class="u-gridless-flow__item u-gridless-flow__item--double">
+                        <div class="panzoom-contain" id="inverted-contain">
+                                                            <div class="panzoom-parent">
+                                    <div class="panzoom" id="imageModeLigne">
+                                        <div class="loader"></div>
+                                        <img class="zoom--default" src="/sites/default/files/plans-lignes/Plans-essentiels/Plan-Metro.1555581459.png"
+                                             alt="Plan Métro" data-magnify-src="/sites/default/files/plans-lignes/Plans-essentiels/Plan-Metro.1555581459.png" />
+                                    </div>
+                                </div>
+                                                                                                                <div class="download-pdf" id="pdfModeLigne">
+                                <a href="/sites/default/files/plans-lignes/Plans-essentiels/Plan-Metro.1555581459.pdf" target="_blank"
+                                   aria-label="Consulter le plan (PDF / 244.03 ko / nouvelle fenêtre)" >
+                                  <span>Consulter le plan</span>
+                                  <span class="poids-pdf">(PDF 244.03 ko)</span>
+                                </a>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+
+                                <div class="ixxi-horaire-result-history">
+                    <div class="ixxi-horaire-result-history">
+<p><a href="https://www.ratp.fr/en/plans-lignes/rer/a"><span class="picto rer symbole"><img alt="" src="https://www.ratp.fr/sites/default/files/network/rer/symbole.svg" /></span><span>&nbsp;</span><span class="picto rer ligneA"><img alt="" src="https://www.ratp.fr/sites/default/files/network/rer/ligneA.svg" /></span></a><span><a href="https://www.ratp.fr/en/plans-lignes/rer/a">&nbsp;line map</a> |&nbsp;<a href="https://www.ratp.fr/en/plans-lignes/rer/b"><span class="picto rer symbole"><img alt="" src="https://www.ratp.fr/sites/default/files/network/rer/symbole.svg" /></span><span>&nbsp;</span><span class="picto rer ligneB"><img alt="" src="https://www.ratp.fr/sites/default/files/network/rer/ligneB.svg" /></span><span>&nbsp;</span>line map</a> |&nbsp;<a href="https://www.ratp.fr/en/plans-lignes/metro/4"><span class="picto metro symbole"><img alt="" src="https://www.ratp.fr/sites/default/files/network/metro/symbole.svg" /></span><span>&nbsp;</span><span class="picto metro ligne4"><img alt="" src="https://www.ratp.fr/sites/default/files/network/metro/ligne4.svg" /></span><span>&nbsp;</span>line map</a> |&nbsp;<a href="https://www.ratp.fr/en/plans-lignes/metro/12"><span class="picto metro symbole"><img alt="" src="https://www.ratp.fr/sites/default/files/network/metro/symbole.svg" /></span><span>&nbsp;</span><span class="picto metro ligne12"><img alt="" src="https://www.ratp.fr/sites/default/files/network/metro/ligne12.svg" /></span><span>&nbsp;</span>line map</a> |&nbsp;<a href="https://www.ratp.fr/en/plans-lignes/metro/7"><span class="picto metro symbole"><img alt="" src="https://www.ratp.fr/sites/default/files/network/metro/symbole.svg" /></span><span>&nbsp;</span><span class="picto metro ligne7"><img alt="" src="https://www.ratp.fr/sites/default/files/network/metro/ligne7.svg" /></span><span>&nbsp;</span>line map</a> |&nbsp;<a href="https://www.ratp.fr/en/plans-lignes/metro/10"><span class="picto metro symbole"><img alt="" src="https://www.ratp.fr/sites/default/files/network/metro/symbole.svg" /></span><span>&nbsp;</span><span class="picto metro ligne10"><img alt="" src="https://www.ratp.fr/sites/default/files/network/metro/ligne10.svg" /></span><span>&nbsp;</span>line map</a> |&nbsp;<a href="https://www.ratp.fr/en/plans-lignes/bus-noctilien/n24"><span class="picto noctilien ligneN24">noctilien ligneN24</span><span>&nbsp;</span>line map</a> |&nbsp;<a href="https://www.ratp.fr/en/plans-lignes/bus-noctilien/n42"><span class="picto noctilien ligneN42">noctilien ligneN42</span><span>&nbsp;</span>line map</a> |&nbsp;<a href="https://www.ratp.fr/en/plans-lignes/tramway/6"><span class="picto tram symbole"><img alt="" src="https://www.ratp.fr/sites/default/files/network/tram/symbole.svg" /></span><span>&nbsp;</span><span class="picto tram ligne6"><img alt="" src="https://www.ratp.fr/sites/default/files/network/tram/ligne6.svg" /></span><span>&nbsp;</span>line map</a> |&nbsp;<a href="https://www.ratp.fr/en/plans-lignes/tramway/2"><span class="picto tram symbole"><img alt="" src="https://www.ratp.fr/sites/default/files/network/tram/symbole.svg" /></span><span>&nbsp;</span><span class="picto tram ligne2"><img alt="" src="https://www.ratp.fr/sites/default/files/network/tram/ligne2.svg" /></span><span>&nbsp;</span>line map</a></span></p>
+</div>
+
+<p>&nbsp;</p>
+
+                </div>
+
+            </div>
+
+                        
+
+
+                                        <!-- infos-retard-prevoir-vos-deplacements-block -->
+<div class="prevoir">
+  <div class="u-colonne u-colonne@small u-colonne@medium u-colonne@large">
+    <h2 class="u-titre--2 u-titre--2@small u-titre--2@medium-up u-titre--2@large">
+              Other maps
+          </h2>
+    <div class="u-gridless-grid u-gridless-grid--3">
+              <div class="bloc-prevoir u-gridless-grid__item picto-cercle picto-cercle--small cercle-geolocalisation" style="background-color:#008054">
+          <div class="bloc-prevoir__conteneur">
+            <a href="/en/plan-quartier">
+              <span class="bloc-prevoir__texte">Local maps</span>
+            </a>
+          </div>
+        </div>
+
+              <div class="bloc-prevoir u-gridless-grid__item picto-cercle picto-cercle--small cercle-cible" style="background-color:#0062a1">
+          <div class="bloc-prevoir__conteneur">
+            <a href="/en/plans-secteur">
+              <span class="bloc-prevoir__texte">Sector maps</span>
+            </a>
+          </div>
+        </div>
+
+              <div class="bloc-prevoir u-gridless-grid__item picto-cercle picto-cercle--small cercle-feudartifice" style="background-color:#8f903c">
+          <div class="bloc-prevoir__conteneur">
+            <a href="/en/getting-around-night/its-easy-get-around-night">
+              <span class="bloc-prevoir__texte">Go to the Noctilien night bus network</span>
+            </a>
+          </div>
+        </div>
+
+          </div>
+  </div>
+</div>
+
+                        
+                                        <!-- infos-retard-lire-aussi-block -->
+
+<div class="lire-aussi">
+  <div class="u-colonne u-colonne@small u-colonne@medium u-colonne@large">
+    <h2 class="u-titre--2 u-titre--2@small u-titre--2@medium-up u-titre--2@large">
+              Also worth reading
+          </h2>
+    <div class="hub-items u-gridless-grid u-gridless-grid--3">
+                          <div class="card card--hub u-gridless-grid__item" id="row-plans-lignes-1">
+                <a href="/en/nouveaubusparisien"
+                   >
+                    <div class="card__image">
+                          <picture>
+                <!--[if IE 9]><video style="display: none;"><![endif]-->
+              <source srcset="/sites/default/files/styles/card_s/public/2019-02/bd2-nouveaubusparisien_0.png?h=6103ba74&amp;itok=dsR2vl4T 300w, /sites/default/files/styles/card_m/public/2019-02/bd2-nouveaubusparisien_0.png?h=6103ba74&amp;itok=E_uZIPda 480w, /sites/default/files/styles/card_l/public/2019-02/bd2-nouveaubusparisien_0.png?h=6103ba74&amp;itok=usjyPali 960w" media="all and (min-width: 64em)" type="image/png" sizes="300px"/>
+              <source srcset="/sites/default/files/styles/card_s/public/2019-02/bd2-nouveaubusparisien_0.png?h=6103ba74&amp;itok=dsR2vl4T 300w, /sites/default/files/styles/card_m/public/2019-02/bd2-nouveaubusparisien_0.png?h=6103ba74&amp;itok=E_uZIPda 480w, /sites/default/files/styles/card_l/public/2019-02/bd2-nouveaubusparisien_0.png?h=6103ba74&amp;itok=usjyPali 960w" media="all and (min-width: 36.0625em) and (max-width: 63.9375em)" type="image/png" sizes="80vw"/>
+              <source srcset="/sites/default/files/styles/card_s/public/2019-02/bd2-nouveaubusparisien_0.png?h=6103ba74&amp;itok=dsR2vl4T 300w, /sites/default/files/styles/card_m/public/2019-02/bd2-nouveaubusparisien_0.png?h=6103ba74&amp;itok=E_uZIPda 480w, /sites/default/files/styles/card_l/public/2019-02/bd2-nouveaubusparisien_0.png?h=6103ba74&amp;itok=usjyPali 960w" media="all and (max-width: 36em)" type="image/png" sizes="80vw"/>
+            <!--[if IE 9]></video><![endif]-->
+            <img src="/sites/default/files/styles/card_m/public/2019-02/bd2-nouveaubusparisien_0.png?h=6103ba74&amp;itok=E_uZIPda" alt="" typeof="foaf:Image" />
+
+  </picture>
+
+                    </div>
+                    <div class="card__contenu">
+                      <div class="card__type"></div>
+                        <h3 class="card__titre">
+                          New Paris bus network
+                        </h3>
+                    </div>
+                </a>    
+                <div class="card__texte">
+                    
+Île-de-France Mobilités (Paris regional transport authority), RATP and the City of Paris are pleased to announce that the new Paris bus ne...
+                </div>
+                <div class="card__categorie">
+                                      <a href="/en/se-deplacer/passenger-services" >
+                      Passenger services
+                    </a>
+                                  </div>    
+            </div>
+                                  <div class="card card--hub u-gridless-grid__item" id="row-plans-lignes-2">
+                <a href="/en/services-aux-voyageurs/services-aux-voyageurs/mobility-services/maratp-companion-your-every-moment"
+                   >
+                    <div class="card__image">
+                          <picture>
+                <!--[if IE 9]><video style="display: none;"><![endif]-->
+              <source srcset="/sites/default/files/styles/card_s/public/2017-05/GettyImages-523540733.jpg?h=8b2bb94c&amp;itok=RNC_piis 300w, /sites/default/files/styles/card_m/public/2017-05/GettyImages-523540733.jpg?h=8b2bb94c&amp;itok=0EsD7m5e 480w, /sites/default/files/styles/card_l/public/2017-05/GettyImages-523540733.jpg?h=8b2bb94c&amp;itok=MdOAnUBs 960w" media="all and (min-width: 64em)" type="image/jpeg" sizes="300px"/>
+              <source srcset="/sites/default/files/styles/card_s/public/2017-05/GettyImages-523540733.jpg?h=8b2bb94c&amp;itok=RNC_piis 300w, /sites/default/files/styles/card_m/public/2017-05/GettyImages-523540733.jpg?h=8b2bb94c&amp;itok=0EsD7m5e 480w, /sites/default/files/styles/card_l/public/2017-05/GettyImages-523540733.jpg?h=8b2bb94c&amp;itok=MdOAnUBs 960w" media="all and (min-width: 36.0625em) and (max-width: 63.9375em)" type="image/jpeg" sizes="80vw"/>
+              <source srcset="/sites/default/files/styles/card_s/public/2017-05/GettyImages-523540733.jpg?h=8b2bb94c&amp;itok=RNC_piis 300w, /sites/default/files/styles/card_m/public/2017-05/GettyImages-523540733.jpg?h=8b2bb94c&amp;itok=0EsD7m5e 480w, /sites/default/files/styles/card_l/public/2017-05/GettyImages-523540733.jpg?h=8b2bb94c&amp;itok=MdOAnUBs 960w" media="all and (max-width: 36em)" type="image/jpeg" sizes="80vw"/>
+            <!--[if IE 9]></video><![endif]-->
+            <img src="/sites/default/files/styles/card_m/public/2017-05/GettyImages-523540733.jpg?h=8b2bb94c&amp;itok=0EsD7m5e" alt="" typeof="foaf:Image" />
+
+  </picture>
+
+                    </div>
+                    <div class="card__contenu">
+                      <div class="card__type"></div>
+                        <h3 class="card__titre">
+                          maRATP, the companion to your every moment and wish
+                        </h3>
+                    </div>
+                </a>    
+                <div class="card__texte">
+                    Each and every day, maRATP makes your daily life easier thanks to special offers and customised services....
+                </div>
+                <div class="card__categorie">
+                                      <a href="/en/se-deplacer/services-aux-voyageurs/mobility-services" >
+                      Mobility services
+                    </a>
+                                  </div>    
+            </div>
+                                  <div class="card card--hub u-gridless-grid__item" id="row-plans-lignes-3">
+                <a href="/en/groupe-ratp/passenger-information-operating-system/ratp-mobile-app-accompanies-you-move"
+                   >
+                    <div class="card__image">
+                          <picture>
+                <!--[if IE 9]><video style="display: none;"><![endif]-->
+              <source srcset="/sites/default/files/styles/card_s/public/article-groupe/open%20data.jpg?h=1d702da2&amp;itok=eSup_G9e 300w, /sites/default/files/styles/card_m/public/article-groupe/open%20data.jpg?h=1d702da2&amp;itok=zIvWebiK 480w, /sites/default/files/styles/card_l/public/article-groupe/open%20data.jpg?h=1d702da2&amp;itok=j6EOOVua 960w" media="all and (min-width: 64em)" type="image/jpeg" sizes="300px"/>
+              <source srcset="/sites/default/files/styles/card_s/public/article-groupe/open%20data.jpg?h=1d702da2&amp;itok=eSup_G9e 300w, /sites/default/files/styles/card_m/public/article-groupe/open%20data.jpg?h=1d702da2&amp;itok=zIvWebiK 480w, /sites/default/files/styles/card_l/public/article-groupe/open%20data.jpg?h=1d702da2&amp;itok=j6EOOVua 960w" media="all and (min-width: 36.0625em) and (max-width: 63.9375em)" type="image/jpeg" sizes="80vw"/>
+              <source srcset="/sites/default/files/styles/card_s/public/article-groupe/open%20data.jpg?h=1d702da2&amp;itok=eSup_G9e 300w, /sites/default/files/styles/card_m/public/article-groupe/open%20data.jpg?h=1d702da2&amp;itok=zIvWebiK 480w, /sites/default/files/styles/card_l/public/article-groupe/open%20data.jpg?h=1d702da2&amp;itok=j6EOOVua 960w" media="all and (max-width: 36em)" type="image/jpeg" sizes="80vw"/>
+            <!--[if IE 9]></video><![endif]-->
+            <img src="/sites/default/files/styles/card_m/public/article-groupe/open%20data.jpg?h=1d702da2&amp;itok=zIvWebiK" alt="" typeof="foaf:Image" />
+
+  </picture>
+
+                    </div>
+                    <div class="card__contenu">
+                      <div class="card__type"></div>
+                        <h3 class="card__titre">
+                          RATP mobile app accompanies you on the move
+                        </h3>
+                    </div>
+                </a>    
+                <div class="card__texte">
+                    We offer a comprehensive, coherent information system to keep you informed, at the right moment, throughout your journey....
+                </div>
+                <div class="card__categorie">
+                                      <a href="/en/taxonomy/term/4911" >
+                      Passenger information / Operating system
+                    </a>
+                                  </div>    
+            </div>
+                  </div>
+  </div>
+</div>
+
+                        
+                       </div>
+
+    </main>
+
+
+          <footer class="footer footer@medium footer@large" role="contentinfo">
+      <div class="footer-colonne footer-colonne@small footer-colonne@medium footer-colonne@large clearfix">
+        <div class="footer-logo footer-logo@small footer-logo@large">
+
+          <a href="/"><img src="/themes/ratp/images/logo-blanc.svg"
+                           alt="RATP : Demandez-nous la ville (retour à l'accueil)"/></a>
+
+        </div>
+          <div class="footer-left footer-left@medium footer-left@large">
+    <div aria-labelledby="block-pieddepage-menu" id="block-pieddepage" class="menu-footer-secondaire">
+            
+   
+
+        
+        <ul class="button-menu button-menu-n0" id="block-pieddepage-menu">
+                                    <li class="button-menu__item button-menu-n0__item button-menu-n0__item--dropdown" >
+               <button id="footer-menu-button"
+                onclick="toggleDropdownVisibility('footer-list-menu-n2','footer-menu-button');"
+                 aria-expanded="false" aria-controls="footer-list-menu-n2">Direct access
+               </button>
+                                        
+
+  <ul class="button-menu u-toggle__block button-menu button-menu-n1"
+    id="footer-list-menu-n2">
+                            <li class="button-menu__item button-menu-n1__item" >
+            <a href="/en/node/6689" rel="" data-dialog-type="" data-dialog-options="" target="_self" data-drupal-link-system-path="node/6689">Accessibility</a>
+                      </li>
+                                <li class="button-menu__item button-menu-n1__item" >
+            <a href="/en/espace-fournisseurs" data-dialog-type="" data-dialog-options="" target="_self" data-drupal-link-system-path="articles-premier-niveau/5171">Suppliers</a>
+                      </li>
+                                <li class="button-menu__item button-menu-n1__item" >
+            <a href="/en/groupe-ratp/newsroom" data-dialog-type="" data-dialog-options="" target="_self" data-drupal-link-system-path="groupe-ratp/newsroom">Press</a>
+                      </li>
+                                <li class="button-menu__item button-menu-n1__item" >
+            <a href="/en/official-journal" data-dialog-type="" data-dialog-options="" target="_self" data-drupal-link-system-path="node/5411">Official journal</a>
+                      </li>
+                                <li class="button-menu__item button-menu-n1__item" >
+            <a href="/en/ratp-and-open-data" rel="" data-dialog-type="" data-dialog-options="" target="_self" data-drupal-link-system-path="node/5515">Open Data</a>
+                      </li>
+                                <li class="button-menu__item button-menu-n1__item" >
+            <a href="https://www.fondationgrouperatp.fr/" rel="" data-dialog-type="" data-dialog-options="" target="_self">Fondation Groupe RATP</a>
+                      </li>
+                  </ul>
+        
+                    </li>
+                                            <li class="button-menu__item button-menu-n0__item" >
+                    <a href="/en/aide-contact" data-dialog-type="" data-dialog-options="" target="_self" data-drupal-link-system-path="aide-contact">Help &amp; Contact</a>
+                              </li>
+                                            <li class="button-menu__item button-menu-n0__item" >
+                    <a href="http://ratp.fr/mediateur">RATP Mediator</a>
+                              </li>
+                  </ul>
+        
+
+
+  </div>
+
+  </div>
+
+          <div class="footer-right footer-right@medium footer-right@large">
+    <div id="block-socialmedialinks-2" class="block-social-media-links block-region-footer_right social-share--footer footer-social-media">
+  
+      <h1 class="footer-social-media__titre">Stay connected</h1>
+    
+      <ul class="platforms inline horizontal">
+
+  <li class="social_share_icn">
+    
+        <a href="https://www.facebook.com/RATPofficiel" >
+    
+
+
+            <i class="fab fa-facebook-f" aria-labelledby="facebook-icon-footer-right"></i>
+    
+      </a>
+  
+  </li>
+<li class="social_share_icn">
+    
+        <a href="https://soundcloud.com/ratp_officiel" >
+    
+
+
+            <i class="fab fa-soundcloud" aria-labelledby="tumblr-icon-footer-right"></i>
+   
+      </a>
+  
+  </li>
+<li class="social_share_icn">
+    
+        <a href="https://www.youtube.com/user/ratp" >
+    
+
+
+            <i class="fab fa-youtube-square" aria-labelledby="youtube-icon-footer-right"></i>
+
+      </a>
+  
+  </li>
+<li class="social_share_icn">
+    
+        <a href="https://www.linkedin.com/company/ratp" >
+    
+
+
+            <i class="fab fa-linkedin-in" aria-labelledby="linkedin-icon-footer-right"></i>
+
+      </a>
+  
+  </li>
+<li class="social_share_icn">
+                        
+        <a class="use-ajax" id="modal-tw-icn-block-socialmedialinks-2" href="/en/ratp_social_networks/twitter" >
+      <i class="fab fa-twitter" aria-labelledby="twitter-icon-footer-right" ></i>
+    </a>
+    
+  </li>
+<li class="social_share_icn">
+    
+        <a href="https://www.instagram.com/ratp/" >
+    
+
+
+            <i class="fab fa-instagram" aria-labelledby="instagram-icon-footer-right" ></i>
+    
+      </a>
+  
+  </li>
+</ul>
+
+  </div>
+    <nav  id="block-footersubmenu"  role="navigation" aria-label="Menu principal">
+              
+     
+
+        
+                            <ul class="footer-menu-secondaire">
+                                                <li class="footer-menu-secondaire__item">
+                        <a href="/en/legal-notice" rel="nofollow" data-dialog-type="" data-dialog-options="" target="_self" data-drupal-link-system-path="node/3566">Legal notices</a>
+                                            </li>
+                                    <li class="footer-menu-secondaire__item">
+                        <a href="/en/management-your-personal-data" data-drupal-link-system-path="node/8416">Personal data</a>
+                                            </li>
+                                    <li class="footer-menu-secondaire__item">
+                        <a href="/en/sitemap" data-dialog-type="" data-dialog-options="" target="_self" data-drupal-link-system-path="sitemap">Site map</a>
+                                            </li>
+                                    <li class="footer-menu-secondaire__item">
+                        <a href="/en/website-accessibility-ratpfr" rel="nofollow" data-dialog-type="" data-dialog-options="" target="_self" data-drupal-link-system-path="node/3556">Web accessibility</a>
+                                            </li>
+                                <li>
+                   
+                    <a href="javascript:tarteaucitron.userInterface.openPanel();">Gestion des cookies</a>
+                </li>
+            </ul>
+            
+
+
+  </nav>
+
+  </div>
+
+      </div>
+            
+          <div class="maillage--footer footer-colonne footer-colonne@small footer-colonne@medium footer-colonne@large clearfix">
+      A découvrir :
+      <ul>
+                    <li>
+              <a href="https://www.ratp.fr/en/horaires-metro">Metro timetables</a> |
+            </li>  
+                    <li>
+              <a href="https://www.ratp.fr/en/horaires-bus">Bus timetables</a> |
+            </li>  
+                    <li>
+              <a href="https://www.ratp.fr/en/horaires-tramway">Tramway timetables</a> |
+            </li>  
+                    <li>
+              <a href="https://www.ratp.fr/en/horaires-rer">RER timetables</a> |
+            </li>  
+              </ul>
+    </div>
+
+    </footer>
+  
+</div>
+  </div>
+
+    
+    <destygo-webchat id="destygo_widget" class="destygo_widget" token="uQRRzHMjRM-Fh0xlICYeuA20180416090116"></destygo-webchat>
+    <script src="/sites/default/files/js/js_PtXZEp-xCBg6dzFuM53Wj4rdU1jTPOfi1Gp9A5D7de4.js"></script>
+<script src="https://static.addtoany.com/menu/page.js" async></script>
+<script src="/sites/default/files/js/js_yyH-cq9U2j9m431jwTK1pd-5OxB8m0hLCOYITasyJFo.js"></script>
+<script src="//customer.cludo.com/scripts/bundles/search-script.min.js"></script>
+<script src="/sites/default/files/js/js_9w8enpTZIEVf6i9nxd3C1N6oa7i9OgjE98BBukAbnnM.js"></script>
+<script src="https://cdn.tagcommander.com/3542/tc_RATP_1.js"></script>
+<script src="/sites/default/files/js/js_olJEAG9BOni_AMyakjqhL72HJhRktL7aSFlJBCGotRA.js"></script>
+
+  </body>
+</html>
