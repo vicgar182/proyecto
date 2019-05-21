@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import "./index.css";
-import "./modern-business.css";
+import "../../index.css";
+import "../../modern-business.css";
 
 class About extends React.Component {
   render() {
