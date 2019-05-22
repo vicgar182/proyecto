@@ -27,17 +27,19 @@ class Start extends React.Component {
             <div class="collapse navbar-collapse" id="navbarResponsive">
               <ul class="navbar-nav ml-auto">
                 <li class="nav-item">
-                  <Link to="/about">About</Link>
+                  <Link class="nav-link" to="/about">
+                    About
+                  </Link>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="services.js">
+                  <Link class="nav-link" to="/services">
                     Services
-                  </a>
+                  </Link>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="contact.js">
+                  <Link class="nav-link" to="/contact">
                     Contact
-                  </a>
+                  </Link>
                 </li>
                 <li class="nav-item dropdown">
                   <a
